@@ -1,0 +1,16 @@
+  {
+  "id": 1,
+  "title": "Game A",
+  "publisher": "Publisher ABC",
+  "developer": "Developer DEF",
+  "releaseDate": "2015-01-01",
+  "platforms": [
+    {"id":1,"name":"Xbox"},
+    {"id":2,"name":"Playstation"}
+  ],
+  "esrbRating": {
+    "id": 1,
+    "code": "E",
+    "name": "Everyone"
+  }
+}
